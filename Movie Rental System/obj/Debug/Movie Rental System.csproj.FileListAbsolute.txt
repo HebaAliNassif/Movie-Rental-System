@@ -1,0 +1,36 @@
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\bin\Debug\Movie Rental System.exe.config
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\bin\Debug\Movie Rental System.exe
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\bin\Debug\Movie Rental System.pdb
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie Rental System.csprojAssemblyReference.cache
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AdminAccount.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.LogIn.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.SignUp.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.StaffAccount.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.StartPage.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Properties.Resources.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie Rental System.csproj.GenerateResource.cache
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie Rental System.csproj.CoreCompileInputs.cache
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie Rental System.exe
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie Rental System.pdb
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AddBranch.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Admin.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.GetCustomerWithuserName.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AddStaff.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.DeleteStaffMember.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.SuspensionList.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Request.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Complains.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.ReviewAndRating.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AccountDetailsForm.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AddMovieInStock.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.DeleteFromStock.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.DeleteMovie.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.OnlineRenting.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Staff.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.StoreRenting.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Insert_Movie.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.ViewActorPage.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.ViewMoviePage.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AddReviewForm.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.Movie_Reviews_Ratings.resources
+C:\Users\Heba\Desktop\db\Movie Rental System\Movie Rental System\obj\Debug\Movie_Rental_System.AddActorForm.resources
